@@ -24,7 +24,7 @@ This project provides a shell script designed to monitor and report AWS resource
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/sarthaknimbalkar/DevOps/aws-resource-tracker.git](https://github.com/sarthaknimbalkar/DevOps.git)
+   git clone https://github.com/sarthaknimbalkar/DevOps.git
    ```
 2. Make the script executable:
    ```bash
