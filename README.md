@@ -1,11 +1,11 @@
-🏭 The primary reasons for moving to cloud infrastructure are manageability and cost-effectiveness, reducing maintenance overhead and allowing pay-as-you-go usage.
-💰 Organizations must track resource usage to ensure cost-effectiveness, as cloud providers charge for unused instances and resources.
-🛠️ The shell script project aims to report on AWS resource usage, such as EC2 instances, S3 buckets, Lambda functions, and IAM users, to maintain cost-effectiveness.
-📝 The script is a simple way to generate daily reports for managers, which can also be integrated with a reporting dashboard for continuous monitoring.
-🔧 The script can be improved with comments and print statements to enhance readability and provide better user experience and debugging information.
-🔄 The script uses AWS CLI commands to retrieve information about various AWS resources and can be customized based on the organization's needs.
-🔍 The use of 'jq', a JSON parser, is highlighted to simplify and parse the output from AWS CLI commands to get specific information like instance IDs.
-⏰ The script can be scheduled to run at specific times using a Cron job, ensuring that the resource usage report is generated and delivered on time.
+- 🏭 The primary reasons for moving to cloud infrastructure are manageability and cost-effectiveness, reducing maintenance overhead and allowing pay-as-you-go usage.
+- 💰 Organizations must track resource usage to ensure cost-effectiveness, as cloud providers charge for unused instances and resources.
+- 🛠️ The shell script project aims to report on AWS resource usage, such as EC2 instances, S3 buckets, Lambda functions, and IAM users, to maintain cost-effectiveness.
+- 📝 The script is a simple way to generate daily reports for managers, which can also be integrated with a reporting dashboard for continuous monitoring.
+- 🔧 The script can be improved with comments and print statements to enhance readability and provide better user experience and debugging information.
+- 🔄 The script uses AWS CLI commands to retrieve information about various AWS resources and can be customized based on the organization's needs.
+- 🔍 The use of 'jq', a JSON parser, is highlighted to simplify and parse the output from AWS CLI commands to get specific information like instance IDs.
+- ⏰ The script can be scheduled to run at specific times using a Cron job, ensuring that the resource usage report is generated and delivered on time.
 
 
 Some Questions that came up in my mind:
