@@ -33,4 +33,8 @@ Some Questions that came up in my mind:
     
     How can the output of the AWS CLI commands be simplified to show only the necessary information?
     -The output can be simplified using 'jq', a JSON parser command-line tool. By piping the output of AWS CLI commands to 'jq', specific pieces of information, such as instance IDs, can be extracted and displayed, making the output more concise and relevant.
+
+
+
+**Read Extra.md for further enhancing the script ( Automation )**
     
