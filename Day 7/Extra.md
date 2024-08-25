@@ -1,4 +1,4 @@
-*To fully automate this script, you can follow these steps:
+To fully automate this script, you can follow these steps:
 
 ### 1. **Set Up a Cron Job (Linux/MacOS)**
 You can schedule this script to run automatically at specified intervals using `cron`. Here’s how to do it:
@@ -62,4 +62,4 @@ Ensure the script has execute permissions:
 chmod +x resource_tracker.sh
 ```
 
-By scheduling the script with `cron` or another task scheduler, and optionally adding notifications, your AWS usage report will be generated and delivered automatically.**
+By scheduling the script with `cron` or another task scheduler, and optionally adding notifications, your AWS usage report will be generated and delivered automatically.
