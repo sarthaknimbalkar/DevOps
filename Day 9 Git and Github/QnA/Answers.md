@@ -34,7 +34,7 @@ When merging branches, Git may encounter conflicts if the same lines of code hav
    # Changes from the other branch
    >>>>>>> other-branch
    ```
-### 3. Manually edit the conflicting sections to resolve the conflicts. Keep the desired changes and remove the markers.
+3. Manually edit the conflicting sections to resolve the conflicts. Keep the desired changes and remove the markers.
 4. Stage the resolved conflicts using `git add`.
 5. Commit the merge resolution using `git commit`.
 
